@@ -11,6 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+        echo "more code";
+        echo "ss";
         // put your code here
         ?>
     </body>
