@@ -14,6 +14,7 @@ and open the template in the editor.
         echo "more code";
         echo "ss";
         echo "good";
+        echo "param";
         // put your code here
         ?>
     </body>
